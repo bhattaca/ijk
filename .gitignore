@@ -55,3 +55,7 @@ ijkgradientinfo
 *.exe
 *.o
 *.so
+
+
+# Compressed file
+*.rar
